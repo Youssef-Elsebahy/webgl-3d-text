@@ -1,4 +1,4 @@
-# webgl-ed-text
+# webgl-3d-text
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
