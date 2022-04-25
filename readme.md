@@ -14,5 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-# chek how it looks!
+# check how it looks!
 https://webgl-3d-text-kohl-nu.vercel.app
