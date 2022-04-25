@@ -1,4 +1,4 @@
-# Three.js Journey
+# webgl-ed-text
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
